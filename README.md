@@ -23,8 +23,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 ## License
 
 _TODO: Specify license here_
-
----
-
-*FaithFlow: Where modern technology meets timeless scripture for your live broadcasts.*
-```
